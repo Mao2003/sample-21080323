@@ -10,7 +10,6 @@
                 padding: 0;
                 margin: 0;
             }
-            /* style cho background*/
             .background {
                 height: 100vh;/*1/100 chiều cao khung hình*/
                 width: 100%;
@@ -32,8 +31,8 @@
                 padding-left: 2cm;
                 margin-left: -2cm;
                 margin-right: 2cm;
-                display: flex;/*Dùng để hiển thị một phần tử dưới dạng khối*/
-                align-items: center;/*Căn giữa các căn chỉnh cho tất cả các mục của phần tử <div>*/
+                display: flex;
+                align-items: center;
             }
             .logo{
                 width: 130px;
@@ -49,7 +48,7 @@
                 margin: 0px 20px;
             }
             nav ul li a{
-                text-decoration: none;/*đặt kiểu trang trí cho văn bản*/
+                text-decoration: none;
                 color: #333;
             }
             .content h1 {
@@ -58,7 +57,6 @@
                 margin-top: 15px;
                 margin-bottom: 15px;
                 color:white;
-
             }
             .content p{
                 font-size: 30px;
@@ -109,7 +107,6 @@
                 margin-left: 7cm;
             }
             .about{
-
                 margin: 10px auto;
                 max-width: 800px;
                 background-color: whitesmoke;
@@ -210,20 +207,17 @@
                             text-align: center;
                         }  
                         </style>
-                    <table border="1px">
-                        
+                    <table border="1px">  
                         <tbody><tr>
                             <td>Số điện thoại</td>
                             <td>Ngày sinh</td>
                             <td>Facebook</td>
-                        </tr>
-                        
+                        </tr>       
                         <tr>
                             <td><a href="tel:0979161663">0979161663</a></td>
                             <td>07/11/2003</td>
                             <td><a href="https://www.facebook.com/little.maoo.k3">Xuân Lâm</a></td>
-                        </tr>
-                        
+                        </tr>   
                         </tbody></table>
                 </div>
             </div>
