@@ -10,7 +10,7 @@
                 padding: 0;
                 margin: 0;
             }
-            .background {
+            .background{
                 height: 100vh;/*1/100 chiều cao khung hình*/
                 width: 100%;
                 background-image: url('https://media.istockphoto.com/id/1420755455/photo/grunge-dirty-background-overlay.jpg?b=1&s=612x612&w=0&k=20&c=Fy12nzrJP6dWK7NPWeAHNL0rsob1HfA8Ypn91jSUA1g=');
@@ -51,7 +51,7 @@
                 text-decoration: none;
                 color: #333;
             }
-            .content h1 {
+            .content h1{
                 font-size: 60px;
                 font-weight: 100;
                 margin-top: 15px;
@@ -80,7 +80,7 @@
                 padding-left: 0;
                 text-align: left;
             }
-            .section {
+            .section{
                 margin: 50px auto;
                 max-width: 800px;/*đặt chiều rộng tối đa cho phần tử*//*Nếu nội dung lớn hơn chiều rộng tối đa, nó sẽ tự động thay đổi chiều cao của phần tử.*/
                 background-color: whitesmoke;
@@ -91,7 +91,7 @@
                 flex-wrap: wrap;
                 align-items:center;
             }
-            .sections {
+            .sections{
                 margin: 10px auto;
                 max-width: 800px;
                 background-color: whitesmoke;
