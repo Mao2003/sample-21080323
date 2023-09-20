@@ -1,4 +1,5 @@
 # sample-21080323
+<!DOCTYPE html>
 <html lang="vi" style="font-family: Sans-serif;"><head>
         <title>My Page</title>
         <meta charset="UTF-8">
